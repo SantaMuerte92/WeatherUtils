@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\WeatherUtils.csproj": {}
+    "C:\\Users\\FIA\\Projekte\\WeatherUtils\\WeatherUtils.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\WeatherUtils.csproj": {
+    "C:\\Users\\FIA\\Projekte\\WeatherUtils\\WeatherUtils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\WeatherUtils.csproj",
+        "projectUniqueName": "C:\\Users\\FIA\\Projekte\\WeatherUtils\\WeatherUtils.csproj",
         "projectName": "WeatherUtils",
-        "projectPath": "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\WeatherUtils.csproj",
+        "projectPath": "C:\\Users\\FIA\\Projekte\\WeatherUtils\\WeatherUtils.csproj",
         "packagesPath": "C:\\Users\\FIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\obj\\",
+        "outputPath": "C:\\Users\\FIA\\Projekte\\WeatherUtils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

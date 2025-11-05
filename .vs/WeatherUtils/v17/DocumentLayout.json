@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\",
+  "WorkspaceRootPath": "C:\\Users\\FIA\\Projekte\\WeatherUtils\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB076951-B012-4C4E-8344-77578D0D7EA1}|WeatherUtils.csproj|c:\\users\\fia\\onedrive\\weatherutils\\weatherutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB076951-B012-4C4E-8344-77578D0D7EA1}|WeatherUtils.csproj|c:\\users\\fia\\projekte\\weatherutils\\weatherutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB076951-B012-4C4E-8344-77578D0D7EA1}|WeatherUtils.csproj|solutionrelative:weatherutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WeatherUtils.cs",
-              "DocumentMoniker": "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\WeatherUtils.cs",
+              "DocumentMoniker": "C:\\Users\\FIA\\Projekte\\WeatherUtils\\WeatherUtils.cs",
               "RelativeDocumentMoniker": "WeatherUtils.cs",
-              "ToolTip": "C:\\Users\\FIA\\OneDrive\\WeatherUtils\\WeatherUtils.cs",
+              "ToolTip": "C:\\Users\\FIA\\Projekte\\WeatherUtils\\WeatherUtils.cs",
               "RelativeToolTip": "WeatherUtils.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADwvwUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T08:08:30.692Z",
               "EditorCaption": ""
